@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fragrance Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-09 17:11-0600\n"
+"PO-Revision-Date: 2012-07-09 17:11-0600\n"
+"Last-Translator: Wenling Gao\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+
+msgid "404 error"
+msgstr ""
+
+
+msgid "Not Found"
+msgstr ""
+
+
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+
+msgid "Daily Archives: %s"
+msgstr ""
+
+
+msgid "Monthly Archives: %s"
+msgstr ""
+
+
+msgid "Yearly Archives: %s"
+msgstr ""
+
+
+msgid "monthly archives date format"
+msgstr ""
+
+
+msgid "yearly archives date format"
+msgstr ""
+
+
+msgid "Blog Archives"
+msgstr ""
+
+
+msgid "Reply"
+msgstr ""
+
+
+msgid "comments number"
+msgstr ""
+
+
+msgid "1"
+msgstr ""
+
+
+msgid "%"
+msgstr ""
+
+
+
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+
+msgstr ""
+
+
+
+
+msgid "Pages:"
+
+msgstr ""
+
+
+
+
+msgid "Edit"
+
+msgstr ""
+
+
+
+
+
+msgid "TAG"
+msgstr ""
+
+
+
+msgid "pages"
+msgstr ""
+
+
+
+msgid "categories"
+msgstr ""
+
+
+
+msgid "archives"
+msgstr ""
+
+
+
+msgid "meta"
+msgstr ""
+
+
+
+msgid "Comments are closed."
+msgstr ""
+
+
+
+msgid "&laquo; Older Entries"
+msgstr ""
+
+
+
+msgid "Newer Entries &raquo"
+msgstr ""
+
+
+
+msgid "Search Results for: %s"
+msgstr ""
+
+
+msgid "links"
+msgstr ""
+
+
+
+msgid "Category"
+msgstr ""
+
+
+
+msgid "no responses"
+msgstr ""
+
+
+
+msgid "one responses"
+msgstr ""
+
+
+
+msgid "% responses"
+msgstr ""
+
+
+msgid "Comments are closed"
+msgstr ""
+
+
+
+msgid "http://www.wpart.org"
+msgstr ""
+
+
+
+msgid "wpart"
+msgstr ""
+
+
+
+msgid "http://wordpress.org"
+msgstr ""
+
+
+
+msgid "WordPress"
+msgstr ""
+
+
+
+msgid "gallery category slug"
+msgstr ""
+
+
+msgid "Untitled"
+msgstr ""

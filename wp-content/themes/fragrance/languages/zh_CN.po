@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fragrance Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-09 17:11-0600\n"
+"PO-Revision-Date: 2013-03-05 11:17+0800\n"
+"Last-Translator: Wenling Gao <gaowernling@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "404 error"
+msgstr "404错误"
+
+msgid "Not Found"
+msgstr "未找到"
+
+msgid "Sorry, but you are looking for something that is not here."
+msgstr "对不起，您搜索的结果暂时无法显示"
+
+msgid "Daily Archives: %s"
+msgstr "日期归档"
+
+msgid "Monthly Archives: %s"
+msgstr "月归档"
+
+msgid "Yearly Archives: %s"
+msgstr "年归档"
+
+msgid "monthly archives date format"
+msgstr "月归档"
+
+msgid "yearly archives date format"
+msgstr "年归档"
+
+msgid "Blog Archives"
+msgstr "博客归档"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "comments number"
+msgstr "留言条目"
+
+msgid "1"
+msgstr "1"
+
+msgid "%"
+msgstr "%"
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "查看更多<span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Pages:"
+msgstr "页面："
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "TAG"
+msgstr "标签"
+
+msgid "pages"
+msgstr "页面"
+
+msgid "categories"
+msgstr "分类目录"
+
+msgid "archives"
+msgstr "文章归档"
+
+msgid "meta"
+msgstr "功能"
+
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+msgid "&laquo; Older Entries"
+msgstr "&laquo; 旧文章"
+
+msgid "Newer Entries &raquo"
+msgstr "新文章 &raquo"
+
+msgid "Search Results for: %s"
+msgstr "%s的搜索结果显示为"
+
+msgid "links"
+msgstr "链接"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "no responses"
+msgstr "暂无评论"
+
+msgid "one responses"
+msgstr "1条评论"
+
+msgid "% responses"
+msgstr "% 条评论"
+
+msgid "Comments are closed on"
+msgstr "评论关闭"
+
+msgid "Comments are closed"
+msgstr "评论关闭"
+
+msgid "http://www.wpart.org"
+msgstr "http://www.wpart.org"
+
+msgid "wpart"
+msgstr "wpart"
+
+msgid "http://wordpress.org"
+msgstr "http://wordpress.org"
+
+msgid "WordPress"
+msgstr "WordPress"
+
+msgid "gallery category slug"
+msgstr "相册图片"
+
+msgid "Untitled"
+msgstr "无标题"
+
